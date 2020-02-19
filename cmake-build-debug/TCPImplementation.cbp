@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TCPImplementation"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/alaa/Desktop/TCPImplementation/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/alaa/Desktop/TCPImplementation/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/alaa/Desktop/TCPImplementation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/alaa/Desktop/TCPImplementation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/alaa/Desktop/TCPImplementation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/alaa/Desktop/TCPImplementation/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/alaa/Desktop/TCPImplementation/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/alaa/Desktop/TCPImplementation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/alaa/Desktop/TCPImplementation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/alaa/Desktop/TCPImplementation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TCPImplementation">
+				<Option output="/home/alaa/Desktop/TCPImplementation/cmake-build-debug/TCPImplementation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/alaa/Desktop/TCPImplementation/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/alaa/Desktop/TCPImplementation/cmake-build-debug/Makefile&quot;  VERBOSE=1 TCPImplementation"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/alaa/Desktop/TCPImplementation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/alaa/Desktop/TCPImplementation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/alaa/Desktop/TCPImplementation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TCPImplementation/fast">
+				<Option output="/home/alaa/Desktop/TCPImplementation/cmake-build-debug/TCPImplementation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/alaa/Desktop/TCPImplementation/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/alaa/Desktop/TCPImplementation/cmake-build-debug/Makefile&quot;  VERBOSE=1 TCPImplementation/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/alaa/Desktop/TCPImplementation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/alaa/Desktop/TCPImplementation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/alaa/Desktop/TCPImplementation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/alaa/Desktop/TCPImplementation/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/alaa/Desktop/TCPImplementation/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/alaa/Desktop/TCPImplementation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/alaa/Desktop/TCPImplementation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/alaa/Desktop/TCPImplementation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/alaa/Desktop/TCPImplementation/Client/Client.cpp">
+			<Option target="TCPImplementation"/>
+		</Unit>
+		<Unit filename="/home/alaa/Desktop/TCPImplementation/Client/Client.h">
+			<Option target="TCPImplementation"/>
+		</Unit>
+		<Unit filename="/home/alaa/Desktop/TCPImplementation/Client/Packet.h">
+			<Option target="TCPImplementation"/>
+		</Unit>
+		<Unit filename="/home/alaa/Desktop/TCPImplementation/Client/SelectiveRepeat.cpp">
+			<Option target="TCPImplementation"/>
+		</Unit>
+		<Unit filename="/home/alaa/Desktop/TCPImplementation/Client/SelectiveRepeat.h">
+			<Option target="TCPImplementation"/>
+		</Unit>
+		<Unit filename="/home/alaa/Desktop/TCPImplementation/Client/main.cpp">
+			<Option target="TCPImplementation"/>
+		</Unit>
+		<Unit filename="/home/alaa/Desktop/TCPImplementation/Server/Packet.h">
+			<Option target="TCPImplementation"/>
+		</Unit>
+		<Unit filename="/home/alaa/Desktop/TCPImplementation/Server/SelectiveRepeat.cpp">
+			<Option target="TCPImplementation"/>
+		</Unit>
+		<Unit filename="/home/alaa/Desktop/TCPImplementation/Server/SelectiveRepeat.h">
+			<Option target="TCPImplementation"/>
+		</Unit>
+		<Unit filename="/home/alaa/Desktop/TCPImplementation/Server/Server.cpp">
+			<Option target="TCPImplementation"/>
+		</Unit>
+		<Unit filename="/home/alaa/Desktop/TCPImplementation/Server/Server.h">
+			<Option target="TCPImplementation"/>
+		</Unit>
+		<Unit filename="/home/alaa/Desktop/TCPImplementation/Server/main.cpp">
+			<Option target="TCPImplementation"/>
+		</Unit>
+		<Unit filename="/home/alaa/Desktop/TCPImplementation/main.cpp">
+			<Option target="TCPImplementation"/>
+		</Unit>
+		<Unit filename="/home/alaa/Desktop/TCPImplementation/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
